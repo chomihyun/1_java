@@ -4,8 +4,6 @@ public class VariableExample1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("git update test");
-		
 		System.out.println("[변수 사용 X]");
 		
 		System.out.println(2 * 3.141592653589793 * 5);
